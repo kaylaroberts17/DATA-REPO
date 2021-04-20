@@ -6,3 +6,8 @@ I am a Pre-Nursing student, hoping to get into nursing school to become a future
 
 ## Data source 
 
+https://covid.cdc.gov/covid-data-tracker/#county-view 
+
+## Processing 
+
+I went to the Center of Disease Control website, on their COVID-19 data tracker page. I then went to search by county in Washington state. I noted several counties including Spokane county, Whitman county, Yakima county, King county, and Grant county. I took note of their weekly cases and there weekly percentage change. 
