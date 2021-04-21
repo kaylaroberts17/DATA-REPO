@@ -19,7 +19,7 @@ I went to the Center of Disease Control website, on their COVID-19 data tracker 
 
 This visual shows the amount of cases for the week of March 28th, 2021 for these five counties in Washington State. 
 
-<ing src="https://raw.githubusercontent.com/kaylaroberts17/DATA-REPO/main/Percent%20Change.png">
+<img src="https://raw.githubusercontent.com/kaylaroberts17/DATA-REPO/main/Percent%20Change.png">
 
 This next visual shows the percent change of each each for the five counties. Whitman county as shown above has had a signifigant increase of COVID-19 cases for each week. 
 
