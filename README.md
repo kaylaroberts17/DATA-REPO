@@ -11,3 +11,6 @@ https://covid.cdc.gov/covid-data-tracker/#county-view
 ## Processing 
 
 I went to the Center of Disease Control website, on their COVID-19 data tracker page. I then went to search by county in Washington state. I noted several counties including Spokane county, Whitman county, Yakima county, King county, and Grant county. I took note of their weekly cases and there weekly percentage change. I then used excel to make visulaizations of the data that I used. I made two different bar graphs. One of the bar graphs shows the weekly cases for each county in Washington state. Using this visulization gave a better sence in where each county was at. The other bar graph that I created is showing the weekly percentage change in each county. This was used to better visualize how each county is changing and how some counties are doing worse than others in COVID-19 cases. 
+
+
+## Visuals 
