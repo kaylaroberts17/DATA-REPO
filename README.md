@@ -14,3 +14,9 @@ I went to the Center of Disease Control website, on their COVID-19 data tracker 
 
 
 ## Visuals 
+
+<img src="https://raw.githubusercontent.com/kaylaroberts17/DATA-REPO/main/Weekly%20Cases.png">
+
+This visual shows the amount of cases for the week of March 28th, 2021 for these five counties in Washington State. 
+
+<ing src="
